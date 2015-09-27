@@ -1,0 +1,34 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: ''
+  rev: ''
+  saveCenter: true
+attribution: ''
+center: 
+  - 0
+  - 0
+  - 3
+description: ''
+Layer: 
+  - id: PER_adm1
+    Datasource: 
+      file: "C:\\Users\\ediyes\\Desktop\\vizua\\peru\\PER_adm1.shp"
+      type: shape
+    description: ''
+    fields: 
+      ENGTYPE_1: String
+      ID_0: Number
+      ID_1: Number
+      ISO: String
+      NAME_0: String
+      NAME_1: String
+      NL_NAME_1: String
+      TYPE_1: String
+      VARNAME_1: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 11
+minzoom: 0
+name: ''
